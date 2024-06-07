@@ -1,0 +1,5 @@
+;Asmsource.def
+LIBRARY "AsmSzukaj"
+EXPORTS
+
+AsmStart
